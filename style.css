@@ -1,0 +1,23 @@
+h1{
+    font-family: georgia;
+    color: blue;
+    background-color: lightgray;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    text-align: center;
+}
+h2{
+    font-family: georgia;
+    color: darkred;
+    font-size: 18px;
+    letter-spacing: 1.4em;
+}
+b{
+  font-weight: bold;
+  font-family: sans-serif;
+}
+body{
+    border-style:groove ;
+}
